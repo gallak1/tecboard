@@ -1,0 +1,19 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background-color: #06151A;
+}
+
+.container {
+    width: 1000px;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.eventos {
+    display: flex;
+    gap: 24px;
+    flex-wrap: nowrap;
+}
